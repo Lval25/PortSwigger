@@ -1,4 +1,4 @@
-🔐 Web Security Academy Progress
+# 🔐 Web Security Academy Progress
 
 I am actively learning web application security through PortSwigger's Web Security Academy, focusing on identifying, understanding, and exploiting real-world vulnerabilities. This hands-on learning path is enhancing my practical cybersecurity skills and deepening my understanding of secure software development.
 
